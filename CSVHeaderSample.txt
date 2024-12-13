@@ -1,0 +1,6 @@
+Sample CSV Header
+GameID --> The ID of the game we can access with any link if there's something fucked up about it 
+WhiteID --> White UID 
+MoveString --> All of the moves in a game, as a string
+Outcome --> 1 of three states, 0 white wins, 1 black wins, 2 draw 
+gameID,whiteUID,blackUID,moveString,outcome
